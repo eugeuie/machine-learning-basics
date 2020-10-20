@@ -1,7 +1,7 @@
 # Введение в Python, машинное обучение
 
 Курс в Ташкентском филиале МГУ им. Ломоносова, весна 2020 года  
-Преподаватели: Иванов Илья Евгеньевич · ivanov.ilya.rus@gmail.com · @ilya_e_ivanov, Петюшко Александр Александрович · @anCHORiTe  
+Преподаватели: Иванов Илья Евгеньевич, Петюшко Александр Александрович   
 [Репозиторий курса на GitHub](https://github.com/mlcoursemm/pythonml2020spring)  
 [Соревнование на Kaggle](https://www.kaggle.com/t/9f809aedb2f44b5484489bfc1ee64ec2)  
 [Канал курса в Telegram](https://t.me/joinchat/AAAAAFBCp3Dc9idQGeD5Sw)  
@@ -16,6 +16,6 @@
 [Документация sklearn](https://scikit-learn.org/stable/)
 
 ## Решения
-[Восстановление регрессии методом ближайших соседей](https://github.com/eugeuie/machine-learning/blob/master/notebooks/knn_kdtree_regressor.ipynb)  
-[Pandas](https://github.com/eugeuie/machine-learning/blob/master/notebooks/eecced.ipynb)  
-[Соревнование на Kaggle](https://github.com/eugeuie/machine-learning/blob/master/notebooks/competition.ipynb)
+[Восстановление регрессии методом ближайших соседей](https://github.com/eugeuie/machine-learning-intro/blob/master/knn_kdtree_regressor.ipynb)  
+[Pandas](https://github.com/eugeuie/machine-learning-intro/blob/master/pandas_task_eecced.ipynb)  
+[Соревнование на Kaggle](https://github.com/eugeuie/machine-learning-intro/blob/master/kaggle_competition.ipynb)
