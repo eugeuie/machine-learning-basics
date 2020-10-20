@@ -4,7 +4,6 @@
 Преподаватели: Иванов Илья Евгеньевич, Петюшко Александр Александрович   
 [Репозиторий курса на GitHub](https://github.com/mlcoursemm/pythonml2020spring)  
 [Соревнование на Kaggle](https://www.kaggle.com/t/9f809aedb2f44b5484489bfc1ee64ec2)  
-[Канал курса в Telegram](https://t.me/joinchat/AAAAAFBCp3Dc9idQGeD5Sw)  
 [Распределение задач и оценки](https://docs.google.com/spreadsheets/d/1ahxdzLJ1PtfgvLFY549vYONwjlfX8zZQFZxN_RGBARI/edit?usp=sharing)  
 
 ## Ресурсы
